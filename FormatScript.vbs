@@ -1,6 +1,6 @@
 '---Usage---'
 'Can be used in any combination of the items below
-'Date - Format("1/3/2019", "MM/DD/YYYY") = O1/03/2019
+'Date - Format("1/3/2019", "MM/DD/YYYY") = 01/03/2019
 'Time - Format("14:34", "H:MM AM/PM") = 2:34 PM
 'Number - Format("123.45", "NNNN.N") = 0123.4
 
